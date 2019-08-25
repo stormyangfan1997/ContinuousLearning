@@ -1,3 +1,4 @@
-# ContinuousLearning
-# I love CS ，but It is a hard way.
-# Keep it up！
+#Learn English
+- Pratice make perfect! belive yourslef 
+- step by step
+- know yourself!
